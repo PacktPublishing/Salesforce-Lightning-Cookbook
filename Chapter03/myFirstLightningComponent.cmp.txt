@@ -1,0 +1,7 @@
+<aura:component implements="flexipage:availableForAllPageTypes">
+    <!-- for the label of the Name -->
+    <aura:attribute name="enterName" type="String" default="Enter Name"/>
+    <ui:outputText value="{!v.enterName}" />
+    <ui:inputText />
+    <ui:button label="Submit" />
+</aura:component>
