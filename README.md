@@ -7,10 +7,15 @@ This is the code repository for [Salesforce Lightning Cookbook](https://www.pack
 **Build modern enterprise apps using the new Lightning Design System, App Builder, and Components**
 
 ## What is this book about?
-0
+The new Lightning Experience combines three major components—Lightning Design System, Lightning App Builder, and Lightning Components—to enable anyone to quickly and easily create beautiful, modern enterprise apps. If you wish to meet the challenges that Lightning throws at you head-on, then look no further because this practical book will be your faithful companion and ensure that you make best use of the Lightning platform.
 
 This book covers the following exciting features:
-
+Enable and configure a Lightning solution
+Create standard Lightning solutions and build a basic page layout
+Add custom components to your Lightning pages
+Build and migrate reports and dashboards
+Integrate Lightning pages with Visualforce to enhance performance
+Add stunning custom designs and styling with Lightning Design System
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/) today!
 
