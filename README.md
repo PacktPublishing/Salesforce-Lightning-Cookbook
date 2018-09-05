@@ -1,6 +1,6 @@
 # 
 
-<a href=""><img src="" alt="" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/application-development/salesforce-lightning-cookbook"><img src="" alt="" height="256px" align="right"></a>
 
 This is the code repository for [](), published by Packt.
 
