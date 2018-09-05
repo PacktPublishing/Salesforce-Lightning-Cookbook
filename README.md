@@ -1,6 +1,6 @@
-# 
+# Salesforce Lightning Cookbook
 
-<a href="https://www.packtpub.com/application-development/salesforce-lightning-cookbook"><img src="" alt="" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/application-development/salesforce-lightning-cookbook "><img src="https://d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B11645.png" alt="" height="256px" align="right"></a>
 
 This is the code repository for [](), published by Packt.
 
