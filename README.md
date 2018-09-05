@@ -4,7 +4,7 @@
 
 This is the code repository for [Salesforce Lightning Cookbook](https://www.packtpub.com/application-development/salesforce-lightning-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781789130942), published by Packt.
 
-****
+**Build modern enterprise apps using the new Lightning Design System, App Builder, and Components**
 
 ## What is this book about?
 0
