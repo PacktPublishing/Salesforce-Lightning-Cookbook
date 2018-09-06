@@ -55,7 +55,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 is one of the pioneers in delivering training on Salesforce Lightning. He has worked on Salesforce for the last seven years. He has developed Salesforce applications with SFDC Best Practices, including functional gathering and application design for a number of companies, such as Infosys, Vodafone, HCL, Dell, Wipro, Mindtree, Sony, Nihon, and Accenture.
 
 
-## Other titles by the authors
+## Video by the author
 [](https://www.packtpub.com/application-development/salesforce-lightning-recipes-video?utm_source=github&utm_medium=repository&utm_campaign=)
 
 [Complete Salesforce Lightning Application Development [Video]](https://www.packtpub.com/application-development/complete-salesforce-lightning-application-development-video?utm_source=github&utm_medium=repository&utm_campaign=9781787289680 )
