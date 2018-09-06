@@ -60,5 +60,6 @@ is one of the pioneers in delivering training on Salesforce Lightning. He has wo
 
 [Complete Salesforce Lightning Application Development [Video]](https://www.packtpub.com/application-development/complete-salesforce-lightning-application-development-video?utm_source=github&utm_medium=repository&utm_campaign=9781787289680 )
 
-
+### Suggestions and Feedback
+[Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
 
